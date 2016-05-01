@@ -1,2 +1,5 @@
 # hello-world
-Mi primer repositorio
+
+Mi primer repositorio:
+
+Aprendiendo Android con GitHub
